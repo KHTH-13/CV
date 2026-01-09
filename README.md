@@ -1,4 +1,4 @@
-# DANH MỤC DỰ ÁN KỸ THUẬT
+# CV
 
 ## 1. Đồ án tốt nghiệp: Hệ thống trường học thông minh
 Ảnh mô hình
